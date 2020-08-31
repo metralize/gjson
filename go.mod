@@ -1,8 +1,8 @@
-module github.com/tidwall/gjson
+module github.com/metralize/gjson
 
 go 1.12
 
 require (
-	github.com/tidwall/match v1.0.1
-	github.com/tidwall/pretty v1.0.2
+	github.com/metralize/match v1.0.1
+	github.com/metralize/pretty v1.0.2
 )
