@@ -11,8 +11,8 @@ import (
 	"unicode/utf8"
 	"unsafe"
 
-	"github.com/tidwall/match"
-	"github.com/tidwall/pretty"
+	"github.com/metralize/match"
+	"github.com/metralize/pretty"
 )
 
 // Type is Result type
